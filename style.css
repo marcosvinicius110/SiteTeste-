@@ -1,0 +1,24 @@
+body {
+    display: flexy;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: brown;
+}
+
+a {
+    text-decoration: none;
+}
+
+    .box {
+        font-size: 20px;
+        color: darkblue;
+        height: 300px;
+        width: 500px;
+        border-radius: 10px;
+        background-color: cyan;
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
